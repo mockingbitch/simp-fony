@@ -1,0 +1,15 @@
+# index:
+#    path: /
+#    controller: App\Controller\HomeController::index
+# # config/routes.yaml
+
+# # the "app_lucky_number" route name is not important yet
+# app_lucky_number:
+#     path: /lucky/number
+#     controller: App\Controller\LuckyController::number
+# article_save:
+#    path: /article/save
+#    controller: App\Controller\Article::save
+# article_show:
+#    path: /article/{id}
+#    controller: App\Controller\Article::show
